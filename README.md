@@ -13,17 +13,6 @@
 
 <br/>
 
-## 🙋‍♀️🙋‍♂️ 팀원
-
-|                                           프로필                                           |                    이름                     | 담당 기능     |
-| :----------------------------------------------------------------------------------------: | :-----------------------------------------: | :------------ |
-| <img src="https://avatars.githubusercontent.com/Ubermensch0608" width="100" height="100"/> | [우종원](https://github.com/Ubermensch0608) | 푸터, 팝업 창 |
-|  <img src="https://avatars.githubusercontent.com/crucial-sub" width="100" height="100"/>   |  [박중섭](https://github.com/crucial-sub)   | GNB           |
-|    <img src="https://avatars.githubusercontent.com/ttaerrim" width="100" height="100"/>    |    [이태림](https://github.com/ttaerrim)    | 동영상, 배너  |
-|   <img src="https://avatars.githubusercontent.com/penguin311" width="100" height="100"/>   |   [임수영](https://github.com/penguin311)   | 플라워 클래스 |
-
-<br/>
-
 ## 🚀 스택
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
